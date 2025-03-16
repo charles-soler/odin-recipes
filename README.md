@@ -1,5 +1,3 @@
-# odin-recipes
-
 # Basic HTML Recipe Website
 
 ## Overview
@@ -41,6 +39,9 @@ This is a simple static website built using basic HTML elements to practice fund
 2. Click on any recipe link in the navigation menu.
 3. View the recipe details, including an image, ingredients, and cooking steps.
 4. Click the "Back to Home" link on any recipe page to return to the homepage.
+
+## Source
+This project is part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) curriculum, designed to help learners understand fundamental HTML concepts.
 
 ## Notes
 - This project was built solely to reinforce HTML basics.
